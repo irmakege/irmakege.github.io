@@ -5,3 +5,6 @@ I'm a graduate student in Mechanical Engineering at [İYTE](https://iyte.edu.tr/
 ## Research Fields 
 
 Machine Learning, Deep Learning, Causality in Deep Learning
+
+[Curriculum Vitae]({{ site.baseurl }}/documents/Irmak_s_Resume_in_English.pdf)
+[Özgeçmiş]({{ site.baseurl }}/documents/Irmak_s_Resume_in_Turkish.pdf)
