@@ -1,6 +1,6 @@
 ## Welcome to  My GitHub Page
 
-I'm a graduate student in Mechanical engineering at [İYTE](www.iyte.edu.tr) since 2019, under the supervision of [Kerem Altun](http://web.iyte.edu.tr/~keremaltun/).
+I'm a graduate student in Mechanical engineering at [İYTE](iyte.edu.tr) since 2019, under the supervision of [Kerem Altun](http://web.iyte.edu.tr/~keremaltun/).
 
 ## Research Fields 
 
