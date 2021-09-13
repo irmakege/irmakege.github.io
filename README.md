@@ -4,6 +4,8 @@ I'm a graduate student in Mechanical Engineering at [İYTE](https://iyte.edu.tr/
 
 ## Research Fields 
 
+Machine Learning, Deep Learning, Causality in Deep Learning
+
 
 ```markdown
 Syntax highlighted code block
