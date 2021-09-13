@@ -1,10 +1,10 @@
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Irmak Ege"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : irmakege5@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
