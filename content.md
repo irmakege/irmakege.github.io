@@ -6,5 +6,5 @@ I'm a graduate student in Mechanical Engineering at [İYTE](https://iyte.edu.tr/
 
 Machine Learning, Deep Learning, Causality in Deep Learning
 
-[Curriculum Vitae]({{ site.baseurl }}/documents/Irmak_s_Resume_in_English.pdf)
-[Özgeçmiş]({{ site.baseurl }}/documents/Irmak_s_Resume_in_Turkish.pdf)
+[Curriculum Vitae](<embed src="https://irmakege.github.io/documents/Irmak_s_Resume_in English.pdf" type="application/pdf" />)
+[Özgeçmiş](<embed src="https://irmakege.github.io/documents/Irmak_s_Resume_in_Turkish.pdf.pdf" type="application/pdf" />)
